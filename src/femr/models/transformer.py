@@ -10,7 +10,7 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 import transformers
-import xformers.ops
+#import xformers.ops
 from torch import nn
 from tqdm import tqdm
 
